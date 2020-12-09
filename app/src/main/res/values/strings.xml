@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PhoneCall_With_FacebookShimmerEffect</string>
+
+    <string-array name="student_Name_array">
+        <item>Abdul Kayuem (Discount)</item>
+        <item>Abdullah Al Mamun (Shukahash)</item>
+        <item>Al-Amin (L-Vai)</item>
+        <item>Hani (Lichi Mohila)</item>
+        <item>Himel (Guti)</item>
+        <item>Masud (Lama)</item>
+        <item>Ragib (Provar Husband)</item>
+        <item>Redwan Sharafat Kabir</item>
+        <item>Redwan Hossain (MIT)</item>
+        <item>Rinku (User-Interface / Gay)</item>
+        <item>Sajedul (Kabila)</item>
+    </string-array>
+
+    <string-array name="student_Id_array">
+        <item>171-15-9087</item>
+        <item>171-15-8787</item>
+        <item>171-15-8795</item>
+        <item>171-15-8842</item>
+        <item>171-15-8905</item>
+        <item>171-15-8851</item>
+        <item>171-15-8708</item>
+        <item>171-15-8737</item>
+        <item>171-15-8557</item>
+        <item>171-15-8825</item>
+        <item>171-15-9085</item>
+    </string-array>
+
+</resources>

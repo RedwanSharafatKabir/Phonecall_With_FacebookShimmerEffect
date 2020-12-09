@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="imageWidth">74dp</dimen>
+    <dimen name="imageHeight">74dp</dimen>
+    <dimen name="marginStandard">12dp</dimen>
+    <dimen name="paddingStandard">8dp</dimen>
+    <dimen name="textSizeHeading">12sp</dimen>
+    <dimen name="textSizeDescription">10sp</dimen>
+    <dimen name="shimmerItemHeight">90dp</dimen>
+</resources>
